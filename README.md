@@ -1,0 +1,2 @@
+# Algoritma
+Rumusan sebelum pemograman
