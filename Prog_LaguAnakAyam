@@ -3,3 +3,7 @@
 3. Deklarasikan jumlah anak ayam sebagai integer.
 4. Mulai process
 5. Tulis anak ayam jumlah 10 mati 1 tinggal 9 dan turun 
+6. Tulis anak ayam jumlah 9 mati 1 tinggal 8 dan turun
+7. Ada pengulangan kalimat tiap pengulangan jumlah ayam minus 1
+8. Pengulangan stop sampai jumlah anak ayam 0 dan sisa induk nya
+9. Procces selesai
