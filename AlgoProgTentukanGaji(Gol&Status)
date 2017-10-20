@@ -1,7 +1,7 @@
 1. Memahami mana data untuk input ,procces dan outpu.
 2. Mulai proces.
-3. Deklarasikan golongan,status sebagai .....
-4. Deklarasikan gaji bersih, gaji pokok, tunjangan, potongan iuran sebagai .....
+3. Deklarasikan golongan,status sebagai char.
+4. Deklarasikan gaji bersih, gaji pokok, tunjangan, potongan iuran sebagai real.
 5. Nama Karyawan, golongan dan status sebagai input user.
 6. Process, untuk gaji pokok berdasarkan golongan.
 7. Process, untuk tunjangan berdasarkan golongan dan status.
