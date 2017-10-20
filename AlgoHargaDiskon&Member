@@ -1,12 +1,12 @@
 1. Memahami mana untuk input,proses dan ouput.
 2. Deklarasikan variable dari data input,output dan kalau ada proses.
-3. Harga normal,diskon,dan harga akhir,bayar,kembalian kita variable kan sebagai integer.
-4. Ya atau Tidak dari diskon  dan member kita tentukan dari type boolean.
+3. Harga normal,diskon,dan harga akhir,bayar,kembalian kita variable kan sebagai .......
+4. Data untuk inputan harga normal, Ya atau Tidak dari diskon  dan member kita tentukan dari type boolean.
 5. Check diskon atau member nya pembeli.
 6. Proses harga jika diskon dan member.
 7. Proses harga jika diskon dan bukan member.
 8. Proses harga jika tidak diskon dan bukan member.
 9. Tampilkan output dari salah satu dari 3 proses diatas berdasarkan kondisi.
 10. Proses untuk input bayar dan kembalian.
-11. tampilkan output.
+11. Tampilkan output.
 12. Program selesai.
