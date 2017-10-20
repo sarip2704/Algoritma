@@ -1,0 +1,8 @@
+1. Memahami mana input,process dan output.
+2. Mulai program.
+3. Mendeklarasikan nilai pembanding sebagai const.
+4. Mendeklarasikan variabel huruf konsonan sebagai integer, untuk perbandingan dengan nilai pembanding dalam process.
+5. Mendeklarasikan variabel huruf voakal sebagai string, untuk menampilkan mata kuliah jika ada yang di remedial dalam ouput.
+6. Process,terjadi pengandaian sebanyak 5 kali untuk dibandingkan dengan nilai pembanding.
+7. Untuk output ada 2 pilihan (Tidak ada remedial dan Tampilakn nilai yang harus di remedial.
+8. Selesai program
